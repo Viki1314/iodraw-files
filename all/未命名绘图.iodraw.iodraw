@@ -4,15 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="414" y="70" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-5" value="SkinEscrow Smart Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -25,11 +16,11 @@
         <mxCell id="65P8Yx80NOCjYAqK7AjH-8" value="&lt;strong&gt;Buyer&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-9" value="SkinEscrow Smart Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="65P8Yx80NOCjYAqK7AjH-9" value="Blockchain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-10" value="SkinEscrow Smart Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
