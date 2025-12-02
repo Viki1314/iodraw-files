@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="65P8Yx80NOCjYAqK7AjH-1" value="&lt;strong&gt;Buyer&lt;/strong&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="65P8Yx80NOCjYAqK7AjH-2" value="Seller" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="200" y="340" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="65P8Yx80NOCjYAqK7AjH-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="65P8Yx80NOCjYAqK7AjH-3" value="SkinEscrow Smart Contract" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
