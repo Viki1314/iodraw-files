@@ -10,6 +10,9 @@
         <mxCell id="65P8Yx80NOCjYAqK7AjH-5" value="SkinEscrow Smart Contract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="65P8Yx80NOCjYAqK7AjH-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="65P8Yx80NOCjYAqK7AjH-6" target="65P8Yx80NOCjYAqK7AjH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-6" value="Oracle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="394" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -22,13 +25,13 @@
         <mxCell id="65P8Yx80NOCjYAqK7AjH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="65P8Yx80NOCjYAqK7AjH-8" target="65P8Yx80NOCjYAqK7AjH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="670" />
-              <mxPoint x="350" y="600" />
+              <mxPoint x="340" y="670" />
+              <mxPoint x="340" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-8" value="&lt;strong&gt;Buyer&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="65P8Yx80NOCjYAqK7AjH-9" value="Blockchain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="740" width="120" height="60" as="geometry" />
